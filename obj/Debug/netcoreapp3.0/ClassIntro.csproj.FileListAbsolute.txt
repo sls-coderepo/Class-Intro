@@ -1,0 +1,11 @@
+c:\Users\Shirish\projects\workspace\ClassIntro\bin\Debug\netcoreapp3.0\ClassIntro.exe
+C:\Users\Shirish\projects\workspace\ClassIntro\bin\Debug\netcoreapp3.0\ClassIntro.deps.json
+C:\Users\Shirish\projects\workspace\ClassIntro\bin\Debug\netcoreapp3.0\ClassIntro.runtimeconfig.json
+C:\Users\Shirish\projects\workspace\ClassIntro\bin\Debug\netcoreapp3.0\ClassIntro.runtimeconfig.dev.json
+c:\Users\Shirish\projects\workspace\ClassIntro\bin\Debug\netcoreapp3.0\ClassIntro.dll
+c:\Users\Shirish\projects\workspace\ClassIntro\bin\Debug\netcoreapp3.0\ClassIntro.pdb
+c:\Users\Shirish\projects\workspace\ClassIntro\obj\Debug\netcoreapp3.0\ClassIntro.csprojAssemblyReference.cache
+c:\Users\Shirish\projects\workspace\ClassIntro\obj\Debug\netcoreapp3.0\ClassIntro.AssemblyInfoInputs.cache
+c:\Users\Shirish\projects\workspace\ClassIntro\obj\Debug\netcoreapp3.0\ClassIntro.AssemblyInfo.cs
+c:\Users\Shirish\projects\workspace\ClassIntro\obj\Debug\netcoreapp3.0\ClassIntro.dll
+c:\Users\Shirish\projects\workspace\ClassIntro\obj\Debug\netcoreapp3.0\ClassIntro.pdb
